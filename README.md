@@ -1,4 +1,4 @@
-#  STARbench - microbenchmark Suite for Time-Aware Reasoning 
+#  STAR bench - microbenchmark Suite for Time-Aware Reasoning 
 
 ## Getting Started
 Pre-generated benchmarks can be found in the "benchmark" directory.
