@@ -1,0 +1,16 @@
+.directory
+.DS_Store
+*.vs*
+.vscode/
+.project
+.settings
+.idea/
+.tags*
+.classpath
+cmake-build-release/
+cmake-build-debug/
+compile_commands.json
+Session.vim
+gmon.out
+prof_*.txt
+
